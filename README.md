@@ -23,10 +23,6 @@
 <br/>
 ![prometheus](https://img.shields.io/badge/prometheus-7F08F8?style=for-the-badge&logo=prometheus&logoColor=white)
 ![grafana](https://img.shields.io/badge/grafana-FF9400?style=for-the-badge&logo=grafana&logoColor=white)
-<br/>
-
-![](https://img.shields.io/badge/telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white)
-<h2>https://t.me/fillswim</h2>
 
 
 
